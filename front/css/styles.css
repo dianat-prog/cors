@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+        gap:20px;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px;
+    gap:10px;
+    
+}
+
+
+button {
+    cursor:pointer;
+    background-color: #796cc7;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 12px;
+  }
